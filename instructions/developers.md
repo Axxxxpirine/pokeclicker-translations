@@ -28,3 +28,14 @@ If you are translating a new section of the game that warrants hashed keys, also
 For all export helper functions, open the browser console in a development build of the game and execute the function there.
 
 - `questlines.json`: call `TranslationHelper.exportQuestlineTranslationDefaults()`
+## Interface text (`ui.json`)
+
+Text written in the game's HTML components is translated with Knockout bindings that read from the `ui` namespace. The English text stays in the HTML and is used as the default translation, so the game keeps working while a key is missing from `ui.json`.
+
+- `data-bind="t: 'farm.title'"`: replaces the text of an element that only contains text
+- `data-bind="tHtml: 'faq.saveData.answer'"`: same, for text containing static HTML markup
+- `data-bind="t: 'quests.unlockSlots', tVars: { level: nextLevel() }"`: values for the `{{level}}` placeholders of the English text
+- `data-bind="tAttr: { title: 'farm.plotTooltip', placeholder: 'common.search' }"`: translates attributes
+- In binding expressions or code: `App.translation.ui('menu.muteTooltip', 'Click to mute all sounds.')`
+
+Keys are grouped by window (`farm.*`, `underground.*`…), with shared labels under `common.*`. When adding or changing interface text, add or update the matching key and English text in `locales/en/ui.json`, then run `npm run i18n-sync`.
