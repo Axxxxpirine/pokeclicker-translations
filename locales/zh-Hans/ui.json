@@ -1,0 +1,1512 @@
+{
+  "achievementTracker": {
+    "selectAchievement": "",
+    "title": ""
+  },
+  "achievements": {
+    "bonus": "",
+    "bonusTooltip": "",
+    "category": "",
+    "sort": "",
+    "sortAscending": "",
+    "sortDescending": ""
+  },
+  "badgeCase": {
+    "maxLevelTooltip": "",
+    "title": ""
+  },
+  "battle": {
+    "catchChance": "",
+    "clickAttack": "",
+    "clickAttackTooltip": "",
+    "dungeonChestsTooltip": "",
+    "dungeonEncountersTooltip": "",
+    "dungeonGuideAttempts": "",
+    "pokemonDefeated": "",
+    "routeCompleted": "",
+    "routeCompletedShiny": "",
+    "routeInfoTooltip": ""
+  },
+  "battleCafe": {
+    "clockwise": "",
+    "costPerSpin": "",
+    "counterClockwise": "",
+    "maxSpins": "",
+    "owned": "",
+    "remainingSpins": "",
+    "selectSweet": "",
+    "spin": "",
+    "spinDuration": "",
+    "spinsAccumulate": "",
+    "title": ""
+  },
+  "battleFrontier": {
+    "allRewardsReceived": "",
+    "attackAgainst": "",
+    "intro": "",
+    "leave": "",
+    "pokemonAttack": "",
+    "quitBattle": "",
+    "reward": "",
+    "stage": "",
+    "stageHeader": "",
+    "start": "",
+    "startCheckpoint": "",
+    "title": "",
+    "upcomingRewards": "",
+    "welcome": ""
+  },
+  "battleItems": {
+    "allTypes": "",
+    "consumes": "",
+    "controls": "",
+    "controlsHelp": "",
+    "disabled": "",
+    "fluteBoostTo": "",
+    "flutes": "",
+    "flutesControlsHelp": "",
+    "timeLeft": "",
+    "timeRemaining": "",
+    "title": "",
+    "typeGems": "",
+    "zCrystals": "",
+    "zMoveBonus": "",
+    "zMovesDisabled": ""
+  },
+  "berryDex": {
+    "attractedByAll": "",
+    "attractedByBerry": "",
+    "attractedByColor": "",
+    "aura": "",
+    "auraEffectAtStage": "",
+    "berryColor": "",
+    "berryStageDuration": "",
+    "bitter": "",
+    "currentAmount": "",
+    "data": "",
+    "dry": "",
+    "farmPointsPerHarvest": "",
+    "farmingInfo": "",
+    "firmness": "",
+    "flavor": "",
+    "form": "",
+    "growthDuration": "",
+    "growthStages": "",
+    "harvestAmount": "",
+    "hint": "",
+    "length": "",
+    "moreInfo": "",
+    "overview": "",
+    "replantRate": "",
+    "size": "",
+    "sour": "",
+    "spicy": "",
+    "stage": {
+      "berry": "",
+      "bloom": "",
+      "sprout": "",
+      "taller": ""
+    },
+    "statistic": "",
+    "sweet": "",
+    "time": "",
+    "totalHarvested": "",
+    "totalLifeSpan": "",
+    "totalObtained": "",
+    "totalTimeUntilStage": "",
+    "wanderingPokemon": ""
+  },
+  "berryMaster": {
+    "inv": "",
+    "item": "",
+    "shop": "",
+    "trade": "",
+    "trades": ""
+  },
+  "breeding": {
+    "addAll": "",
+    "addAllTooltip": "",
+    "all": "",
+    "allCategories": "",
+    "attackEfficiency": "",
+    "categorized": "",
+    "category": "",
+    "categoryModeTooltip": "",
+    "clear": "",
+    "clearQueue": "",
+    "clearQueueTooltip": "",
+    "costPerHatch": "",
+    "disableCategoryMode": "",
+    "editCategories": "",
+    "efficiencyBonus": "",
+    "eggAmount": "",
+    "eggInfo": {
+      "attackBoost": "",
+      "odds": "",
+      "purchase": ""
+    },
+    "eggInfoTitle": "",
+    "eggs": "",
+    "enableCategoryMode": "",
+    "filtersAndSettings": "",
+    "fire": "",
+    "fireAll": "",
+    "hatch": "",
+    "hatchReady": "",
+    "hatched": "",
+    "hatchery": "",
+    "hatcheryHelpers": "",
+    "hatchesProgress": "",
+    "help": {
+      "attackBonus": "",
+      "baseAttackNote": "",
+      "calciums": "",
+      "carbos": "",
+      "helpersAttackEfficiency": "",
+      "helpersBonus": "",
+      "helpersCost": "",
+      "helpersFilters": "",
+      "helpersIntro": "",
+      "helpersMore": "",
+      "helpersStepEfficiency": "",
+      "helpersUnlock": "",
+      "intro": "",
+      "noLimit": "",
+      "proteins": "",
+      "queue": "",
+      "queueTitle": "",
+      "shinyBonus": ""
+    },
+    "helperTooltip": {
+      "attackEfficiency": "",
+      "cost": "",
+      "hatched": "",
+      "stepEfficiency": ""
+    },
+    "helpers": "",
+    "hire": "",
+    "maxBonus": "",
+    "mysteryEggInfo": "",
+    "nameOrId": "",
+    "nextPokemon": "",
+    "noFreeEggSlot": "",
+    "noMaxLevelPokemon": "",
+    "noNextPokemon": "",
+    "odds": "",
+    "pattern": "",
+    "queueDisabled": "",
+    "queueFull": "",
+    "queueLimited": "",
+    "removeAll": "",
+    "removeAllTooltip": "",
+    "resetAllFilters": "",
+    "searchPlaceholder": "",
+    "selectedCategory": "",
+    "selectedCount": "",
+    "sort": "",
+    "sortAscending": "",
+    "sortDescending": "",
+    "stepEfficiency": "",
+    "toggleLockedHelpers": "",
+    "types": "",
+    "unlock": "",
+    "unlockRequirement": "",
+    "useHatcheryFilters": "",
+    "useHatcheryFiltersTooltip": ""
+  },
+  "bulletinBoard": {
+    "accept": "",
+    "noQuests": "",
+    "previouslyStarted": "",
+    "resume": "",
+    "started": "",
+    "step": "",
+    "title": ""
+  },
+  "categories": {
+    "addNew": "",
+    "color": "",
+    "movePokemonTo": "",
+    "moveTooltip": "",
+    "removeCategory": "",
+    "resetMessage": "",
+    "resetTitle": "",
+    "title": ""
+  },
+  "challenges": {
+    "activate": "",
+    "active": "",
+    "disabled": "",
+    "done": "",
+    "firstTime": "",
+    "intro": "",
+    "recommended": "",
+    "title": ""
+  },
+  "changelog": {
+    "message": "",
+    "title": "",
+    "viewFullNotes": ""
+  },
+  "common": {
+    "amount": "",
+    "buy": "",
+    "close": "",
+    "cost": "",
+    "description": "",
+    "filters": "",
+    "help": "",
+    "inventory": "",
+    "list": "",
+    "max": "",
+    "name": "",
+    "next": "",
+    "pokemon": "",
+    "region": "",
+    "reset": "",
+    "search": "",
+    "sell": "",
+    "status": "",
+    "type": ""
+  },
+  "consumable": {
+    "attack": ""
+  },
+  "credits": {
+    "codeContributions": "",
+    "contributedSprites": "",
+    "creditedIndividual": "",
+    "title": ""
+  },
+  "currency": {
+    "battlePointTooltip": "",
+    "contestTokenTooltip": "",
+    "diamondTooltip": "",
+    "dungeonTokenTooltip": "",
+    "farmPointTooltip": "",
+    "moneyTooltip": "",
+    "questPointTooltip": "",
+    "title": ""
+  },
+  "damageCalculator": {
+    "baseAttackOnly": "",
+    "damage": "",
+    "helpTooltip": "",
+    "ignoreLevel": "",
+    "includeBreeding": "",
+    "none": "",
+    "subregion": "",
+    "title": "",
+    "totalDamage": "",
+    "type1": "",
+    "type2": "",
+    "typeDamage": "",
+    "typeDetail": "",
+    "weather": ""
+  },
+  "devBanner": {
+    "letsGo": "",
+    "reimport": "",
+    "title": "",
+    "warning": ""
+  },
+  "dreamOrbs": {
+    "open": "",
+    "openedMessage": "",
+    "openedTitle": "",
+    "orbsLeft": "",
+    "title": ""
+  },
+  "dungeon": {
+    "allCaught": "",
+    "allCaughtShiny": "",
+    "catchChance": "",
+    "chestEnemyHp": "",
+    "clears": "",
+    "clickAttack": "",
+    "debuffPreservedTooltip": "",
+    "leave": "",
+    "nextFloor": "",
+    "openChest": "",
+    "startBossfight": ""
+  },
+  "dungeonGuides": {
+    "attemptsRemaining": "",
+    "costPerRun": "",
+    "currencies": "",
+    "dungeonAttempts": "",
+    "dungeonGuide": "",
+    "entryCost": "",
+    "exploreDungeon": "",
+    "fire": "",
+    "guideCost": "",
+    "help": {
+      "betaNote": "",
+      "cost": "",
+      "intro": "",
+      "noGuarantee": "",
+      "speed": ""
+    },
+    "hire": "",
+    "hireTab": "",
+    "movementSpeed": "",
+    "nonRefundable": "",
+    "seconds": "",
+    "start": "",
+    "statistics": "",
+    "title": "",
+    "toggleLocked": "",
+    "totalAttempts": "",
+    "totalClears": "",
+    "totalCost": "",
+    "unlockRequirement": ""
+  },
+  "events": {
+    "activate": "",
+    "endTime": "",
+    "event": "",
+    "startTime": "",
+    "timeLeft": "",
+    "title": ""
+  },
+  "externalLinks": {
+    "companionTool": "",
+    "companionToolText": "",
+    "discord": "",
+    "discordText": "",
+    "github": "",
+    "githubText": "",
+    "subreddit": "",
+    "subredditText": "",
+    "title": "",
+    "wiki": "",
+    "wikiText": ""
+  },
+  "faq": {
+    "challengeModes": {
+      "noBattleItems": {
+        "answer": "",
+        "title": ""
+      },
+      "noClickAttack": {
+        "answer": "",
+        "title": ""
+      },
+      "noGemUpgrades": {
+        "answer": "",
+        "title": ""
+      },
+      "noMasterBalls": {
+        "answer": "",
+        "title": ""
+      },
+      "noOakItems": {
+        "answer": "",
+        "title": ""
+      },
+      "noVitamins": {
+        "answer": "",
+        "title": ""
+      },
+      "realEvolution": {
+        "answer": "",
+        "title": ""
+      },
+      "regionalDebuff": {
+        "answer": "",
+        "title": ""
+      },
+      "requireDex": {
+        "answer": "",
+        "title": ""
+      },
+      "rewards": {
+        "answer": "",
+        "question": ""
+      },
+      "slowEvs": {
+        "answer": "",
+        "title": ""
+      },
+      "title": "",
+      "whatAre": {
+        "answer": "",
+        "question": ""
+      }
+    },
+    "development": {
+      "developers": {
+        "answer": "",
+        "question": ""
+      },
+      "help": {
+        "answer": "",
+        "question": ""
+      },
+      "moreRegions": {
+        "answer": "",
+        "question": ""
+      },
+      "release": {
+        "answer": "",
+        "question": ""
+      },
+      "title": ""
+    },
+    "gameplay": {
+      "autoBattle": {
+        "answer": "",
+        "question": ""
+      },
+      "breeding": {
+        "answer": "",
+        "question": ""
+      },
+      "clickAttack": {
+        "answer": "",
+        "question": ""
+      },
+      "dayCycle": {
+        "end": "",
+        "icon": "",
+        "question": "",
+        "start": "",
+        "timeOfDay": ""
+      },
+      "dungeonFloors": {
+        "answer": "",
+        "question": ""
+      },
+      "dungeonGuides": {
+        "answer": "",
+        "question": ""
+      },
+      "evMultipliers": {
+        "andSoOn": "",
+        "damage": "",
+        "damageMultiplier": "",
+        "evAmount": "",
+        "evs": "",
+        "question": ""
+      },
+      "flash": {
+        "answer": "",
+        "question": ""
+      },
+      "howToUnlock": {
+        "answer": "",
+        "question": ""
+      },
+      "multipleQuests": {
+        "answer": "",
+        "question": ""
+      },
+      "nextRegion": {
+        "answer": "",
+        "question": ""
+      },
+      "obtainPokemon": {
+        "answer": "",
+        "question": ""
+      },
+      "regions": {
+        "answer": "",
+        "question": ""
+      },
+      "smallerDungeons": {
+        "answer": "",
+        "question": ""
+      },
+      "title": "",
+      "whereToFind": {
+        "answer": "",
+        "question": ""
+      }
+    },
+    "general": {
+      "damage": {
+        "answer": "",
+        "question": ""
+      },
+      "dungeonTokens": {
+        "answer": "",
+        "question": ""
+      },
+      "inactiveSpeed": {
+        "answer": "",
+        "question": ""
+      },
+      "saveInfo": {
+        "question": ""
+      },
+      "title": "",
+      "whereToPlay": {
+        "answer": "",
+        "question": ""
+      },
+      "wiki": {
+        "answer": "",
+        "question": ""
+      }
+    },
+    "items": {
+      "berriesUse": {
+        "answer": "",
+        "question": ""
+      },
+      "evolutionItems": {
+        "answer": "",
+        "question": ""
+      },
+      "moreBerries": {
+        "answer": "",
+        "question": ""
+      },
+      "oakItemSlots": {
+        "answer": "",
+        "question": ""
+      },
+      "restores": {
+        "answer": "",
+        "question": ""
+      },
+      "title": ""
+    },
+    "pokerusEvs": {
+      "evBonus": {
+        "answer": "",
+        "question": ""
+      },
+      "gainEvs": {
+        "answer": "",
+        "question": ""
+      },
+      "spread": {
+        "answer": "",
+        "question": ""
+      },
+      "statusFilters": {
+        "answer": "",
+        "question": ""
+      },
+      "title": "",
+      "unlockEvs": {
+        "answer": "",
+        "question": ""
+      },
+      "whatIs": {
+        "answer": "",
+        "question": ""
+      }
+    },
+    "rareShiny": {
+      "breedShiny": {
+        "answer": "",
+        "question": ""
+      },
+      "evolveShiny": {
+        "answer": "",
+        "question": ""
+      },
+      "roamingOdds": {
+        "answer": "",
+        "question": ""
+      },
+      "shinyBonus": {
+        "answer": "",
+        "question": ""
+      },
+      "shinyOdds": {
+        "answer": "",
+        "question": ""
+      },
+      "title": ""
+    },
+    "saveData": {
+      "cloudSaves": {
+        "answer": "",
+        "question": ""
+      },
+      "release": {
+        "answer": "",
+        "question": ""
+      },
+      "title": "",
+      "transfer": {
+        "answer": "",
+        "question": ""
+      }
+    },
+    "title": ""
+  },
+  "farm": {
+    "berries": "",
+    "berry": "",
+    "berryListTooltip": "",
+    "berrydex": "",
+    "clearMulchTooltip": "",
+    "clearPlantTooltip": "",
+    "externalAuras": "",
+    "farmHands": "",
+    "farmPoints": "",
+    "flipAll": "",
+    "flipAllShort": "",
+    "flipAllTooltip": "",
+    "hands": {
+      "actionPerCycle": "",
+      "actionsPerCycle": "",
+      "allowedPlots": "",
+      "allowedPlotsTooltip": "",
+      "cost": "",
+      "costPerHour": "",
+      "costTooltip": "",
+      "edit": "",
+      "efficiency": "",
+      "efficiencyTooltip": "",
+      "energy": "",
+      "energyTooltip": "",
+      "fire": "",
+      "fireAll": "",
+      "focusNone": "",
+      "focusRandom": "",
+      "focusReplant": "",
+      "harvesting": "",
+      "harvestingTooltip": "",
+      "hire": "",
+      "manageWanderers": "",
+      "planting": "",
+      "plantingTooltip": "",
+      "showLocked": "",
+      "tooltip": "",
+      "unlockRequirement": "",
+      "wanderersTooltip": "",
+      "workCycle": "",
+      "workCycleTooltip": ""
+    },
+    "harvestAll": "",
+    "help": {
+      "amazeMulch": "",
+      "boostMulch": "",
+      "farmHands": "",
+      "farmHandsEfficiency": "",
+      "farmHandsEnergy": "",
+      "farmHandsMax": "",
+      "farmHandsMore": "",
+      "farmHandsUnlock": "",
+      "freezeMulch": "",
+      "gooeyMulch": "",
+      "growth": "",
+      "intro": "",
+      "locking": "",
+      "lockingEffect": "",
+      "lockingIgnore": "",
+      "lockingTitle": "",
+      "module": "",
+      "moduleTitle": "",
+      "mulchEffects": "",
+      "mulchShovels": "",
+      "mulches": "",
+      "mulchesTitle": "",
+      "mutationKinds": "",
+      "mutationTypes": "",
+      "mutations": "",
+      "mutationsTitle": "",
+      "plots": "",
+      "richMulch": "",
+      "shovels": "",
+      "shovelsShop": "",
+      "shovelsTitle": "",
+      "surpriseMulch": "",
+      "trades": "",
+      "tradesTitle": "",
+      "unlocking": "",
+      "wandererAuras": "",
+      "wandererCatch": "",
+      "wandererReward": "",
+      "wandererStay": "",
+      "wanderers": "",
+      "wither": ""
+    },
+    "lockAll": "",
+    "lockAllShort": "",
+    "lockAllTooltip": "",
+    "lockAlt": "",
+    "lockUnlockPlotTooltip": "",
+    "lockedPlotAlt": "",
+    "mulch": "",
+    "mulchAll": "",
+    "mulchShovel": "",
+    "multiplier": "",
+    "multiplierHelp": "",
+    "plantAll": "",
+    "plot": {
+      "alteredFrom": "",
+      "auraEmitted": "",
+      "auraReceived": "",
+      "infiniteUntilDeath": "",
+      "mulch": "",
+      "possibleMutations": "",
+      "untilBloom": "",
+      "untilDeath": "",
+      "untilGrown": "",
+      "untilRipe": "",
+      "untilSprout": "",
+      "wanderer": ""
+    },
+    "searchTooltip": "",
+    "selectedBerryImage": "",
+    "selectedMulchImage": "",
+    "shovel": "",
+    "title": "",
+    "toggleLockTooltip": "",
+    "unlockAll": "",
+    "unlockAllShort": "",
+    "unlockAllTooltip": "",
+    "unlockPlotInFarmTooltip": "",
+    "view": ""
+  },
+  "gemMaster": {
+    "gems": "",
+    "title": ""
+  },
+  "gems": {
+    "description": "",
+    "disabled": "",
+    "immune": "",
+    "maxed": "",
+    "neutral": "",
+    "notAvailable": "",
+    "notVery": "",
+    "selectGem": "",
+    "title": "",
+    "versus": "",
+    "very": ""
+  },
+  "gym": {
+    "clears": "",
+    "stopAuto": ""
+  },
+  "hallOfFame": {
+    "alola": "",
+    "completePokedex": "",
+    "galar": "",
+    "hoenn": "",
+    "johto": "",
+    "kalos": "",
+    "kanto": "",
+    "sinnoh": "",
+    "unova": ""
+  },
+  "heldItem": {
+    "heldItemColumn": "",
+    "pokemonColumn": "",
+    "type2": ""
+  },
+  "items": {
+    "collectibleItems": "",
+    "consumables": "",
+    "evolutionItem": "",
+    "evolutionItems": "",
+    "fossilPieces": "",
+    "fossils": "",
+    "gemPlates": "",
+    "heldItems": "",
+    "itemBag": "",
+    "keyItems": "",
+    "megaStones": "",
+    "multipleEvolutionTooltip": "",
+    "selectPokemon": "",
+    "shards": "",
+    "sortAscending": "",
+    "sortDescending": "",
+    "undergroundTreasure": "",
+    "useEvolutionItems": "",
+    "useStonesTooltip": "",
+    "vitamins": ""
+  },
+  "keyItem": {
+    "congratulations": "",
+    "newKeyItem": "",
+    "youGained": ""
+  },
+  "logBook": {
+    "date": "",
+    "logs": "",
+    "logsSettings": "",
+    "message": "",
+    "title": "",
+    "toggleTypes": ""
+  },
+  "menu": {
+    "achievements": "",
+    "badgeCase": "",
+    "challengeModes": "",
+    "changelog": "",
+    "credits": "",
+    "damageCalculator": "",
+    "events": "",
+    "externalLinks": "",
+    "faq": "",
+    "gems": "",
+    "items": "",
+    "logBook": "",
+    "muteTooltip": "",
+    "pokedex": "",
+    "profile": "",
+    "progressToUnlock": "",
+    "reportBug": "",
+    "save": "",
+    "saveTooltip": "",
+    "settings": "",
+    "startMenu": "",
+    "statistics": "",
+    "unmuteTooltip": ""
+  },
+  "moonPhase": {
+    "description": "",
+    "moonBallBonus": "",
+    "phase": "",
+    "title": ""
+  },
+  "nextRegion": {
+    "attackDebuff": "",
+    "canTravel": "",
+    "dockRequired": "",
+    "downloadAdvice": "",
+    "downloadSave": "",
+    "dungeonLoot": "",
+    "letsGo": "",
+    "pokedexCompleted": "",
+    "queueSlots": "",
+    "thingsToKnow": "",
+    "title": ""
+  },
+  "npc": {
+    "accept": "",
+    "maybeLater": ""
+  },
+  "oakItems": {
+    "bonus": "",
+    "disabled": "",
+    "equipAnother": "",
+    "equipped": "",
+    "level": "",
+    "loadouts": "",
+    "locked": "",
+    "maxLevel": "",
+    "namePlaceholder": "",
+    "selector": "",
+    "title": "",
+    "upgrade": ""
+  },
+  "pokeballFilters": {
+    "configureFilters": "",
+    "createFilter": "",
+    "disabled": "",
+    "enabled": "",
+    "help": {
+      "configureIntro": "",
+      "description": "",
+      "hidden": "",
+      "reorder": "",
+      "rightClick": "",
+      "testDefault": "",
+      "testExample": "",
+      "testExplain": "",
+      "testIntro": "",
+      "toggleSettings": "",
+      "toggles": ""
+    },
+    "priorityAfter": "",
+    "priorityBefore": "",
+    "priorityBottom": "",
+    "priorityTop": "",
+    "resetFilters": "",
+    "testConfigure": "",
+    "testFilters": "",
+    "testIntro": "",
+    "testMatch": "",
+    "testNoMatch": "",
+    "toggleSettings": ""
+  },
+  "pokeballSelector": {
+    "ball": "",
+    "doNotCatch": "",
+    "helpTooltip": "",
+    "qty": "",
+    "selectionTitle": "",
+    "title": ""
+  },
+  "pokedex": {
+    "addAll": "",
+    "addAllTooltip": "",
+    "all": "",
+    "categorized": "",
+    "categoryModeTooltip": "",
+    "disableCategoryMode": "",
+    "editCategories": "",
+    "enableCategoryMode": "",
+    "evTooltip": "",
+    "filtersAndSettings": "",
+    "heldItemTooltip": "",
+    "infoTooltip": "",
+    "missingPokemon": "",
+    "nameOrId": "",
+    "nameOrIdPlaceholder": "",
+    "noPokemonFound": "",
+    "removeAll": "",
+    "removeAllTooltip": "",
+    "resetAllFilters": "",
+    "selected": "",
+    "selectedCategory": "",
+    "showShadowSpritesTooltip": "",
+    "showing": "",
+    "sortAscending": "",
+    "sortDescending": "",
+    "title": "",
+    "types": "",
+    "unknown": ""
+  },
+  "pokemonList": {
+    "atk": "",
+    "attackPower": "",
+    "evs": "",
+    "lv": "",
+    "purified": "",
+    "shadow": "",
+    "title": ""
+  },
+  "pokemonStats": {
+    "attackAtLevel100": "",
+    "baseAttack": "",
+    "breedingEfficiency": "",
+    "captured": "",
+    "catchRate": "",
+    "currentAttack": "",
+    "defeated": "",
+    "displayGender": "",
+    "encountered": "",
+    "evBonus": "",
+    "evs": "",
+    "genderRatio": "",
+    "genderless": "",
+    "hatchSteps": "",
+    "hatched": "",
+    "heldItem": "",
+    "hideShinySprite": "",
+    "nickname": "",
+    "notObtainable": "",
+    "pokemonStats": "",
+    "rareHoldItem": "",
+    "rareHoldItemTooltip": "",
+    "reportBug": "",
+    "settingOverride": "",
+    "shiniesCaptured": "",
+    "shiniesDefeated": "",
+    "shiniesEncountered": "",
+    "shiniesHatched": "",
+    "showShadow": "",
+    "statistics": "",
+    "unknown": "",
+    "vitaminsApplied": ""
+  },
+  "profile": {
+    "background": "",
+    "gender": "",
+    "namePlaceholder": "",
+    "selectBackground": "",
+    "selectTrainer": "",
+    "shadow": "",
+    "shadowLocked": "",
+    "shiny": "",
+    "shinyLocked": "",
+    "textColor": "",
+    "title": "",
+    "trainer": ""
+  },
+  "purifyChamber": {
+    "flowNeeded": "",
+    "noShadowPokemon": "",
+    "purify": "",
+    "title": ""
+  },
+  "questLine": {
+    "cannotPause": "",
+    "inProgress": "",
+    "locked": "",
+    "pauseOnlyInTown": "",
+    "pauseWarning": "",
+    "paused": ""
+  },
+  "quests": {
+    "activeQuestLines": "",
+    "availableQuestLines": "",
+    "claim": "",
+    "clickListToStart": "",
+    "completeAllBonus": "",
+    "completeQuestLines": "",
+    "completed": "",
+    "dailyFreeRefreshIn": "",
+    "freeRefresh": "",
+    "level": "",
+    "pause": "",
+    "progress": "",
+    "questLines": "",
+    "quit": "",
+    "refresh": "",
+    "reward": "",
+    "start": "",
+    "step": "",
+    "tabQuests": "",
+    "titleCount": "",
+    "unlockSlots": ""
+  },
+  "routeInfo": {
+    "backlotDailySpecial": "",
+    "dayOfWeekPokemon": "",
+    "encounters": "",
+    "eventPokemon": "",
+    "eventRoamingPokemon": "",
+    "evs": "",
+    "fishingPokemon": "",
+    "roaming": "",
+    "roamingBoosted": "",
+    "roamingChance": "",
+    "roamingPokemon": "",
+    "weatherPokemon": ""
+  },
+  "safari": {
+    "allCaught": "",
+    "allCaughtShiny": "",
+    "ballButton": "",
+    "catchChance": "",
+    "escapeChance": "",
+    "explore": "",
+    "help": {
+      "bait": "",
+      "baitDesc": "",
+      "ball": "",
+      "ballDesc": "",
+      "catchXp": "",
+      "end": "",
+      "flee": "",
+      "intro": "",
+      "itemXp": "",
+      "levelEffects": "",
+      "levelItems": "",
+      "options": "",
+      "rock": "",
+      "rockDesc": "",
+      "run": "",
+      "runDesc": "",
+      "speedIntro": "",
+      "speedLevel": "",
+      "walk": "",
+      "xp": ""
+    },
+    "leave": "",
+    "level": "",
+    "maxLevel": "",
+    "payEntranceFee": "",
+    "rockButton": "",
+    "run": "",
+    "title": ""
+  },
+  "save": {
+    "claim": "",
+    "copyToClipboard": "",
+    "deleteSave": "",
+    "deleteWarning": "",
+    "discordNote": "",
+    "downloadHelp": "",
+    "downloadSave": "",
+    "enterCodePlaceholder": "",
+    "importSave": "",
+    "linkDiscord": "",
+    "title": "",
+    "unlinkDiscord": ""
+  },
+  "saveSelector": {
+    "badges": "",
+    "discordAlt": "",
+    "githubAlt": "",
+    "importSave": "",
+    "menu": {
+      "delete": "",
+      "download": "",
+      "import": "",
+      "load": ""
+    },
+    "newSave": "",
+    "pokedex": "",
+    "time": "",
+    "useOurClient": "",
+    "wikiAlt": ""
+  },
+  "settingsModal": {
+    "changeRoutesTooltip": "",
+    "desktopNotificationsTooltip": "",
+    "discord": {
+      "enable": "",
+      "line1": "",
+      "line1Placeholder": "",
+      "line2": "",
+      "line2Placeholder": "",
+      "options": "",
+      "timer": "",
+      "timerReset": ""
+    },
+    "inGameNotificationsTooltip": "",
+    "loadDefault": "",
+    "minusOrPlus": "",
+    "numberKeys": "",
+    "oakItemsTooltip": "",
+    "pokeballTooltip": "",
+    "queueSizeTooltip": "",
+    "resetColors": "",
+    "resetDefault": "",
+    "resetOrder": "",
+    "resetResizableModules": "",
+    "saveDefault": "",
+    "saveFilenameTooltip": "",
+    "section": {
+      "currency": "",
+      "dungeon": "",
+      "farm": "",
+      "general": "",
+      "hatchery": "",
+      "mapColors": "",
+      "modals": "",
+      "oakItems": "",
+      "other": "",
+      "pokeballSelector": "",
+      "safari": "",
+      "ship": "",
+      "shop": "",
+      "town": "",
+      "underground": ""
+    },
+    "setKeyTooltip": "",
+    "shipTooltip": "",
+    "shopTooltip": "",
+    "tab": {
+      "display": "",
+      "gameplay": "",
+      "hotkeys": "",
+      "notifications": "",
+      "other": "",
+      "sound": ""
+    },
+    "title": "",
+    "townTooltip": "",
+    "whiteTransparentTooltip": ""
+  },
+  "shop": {
+    "pokeMart": "",
+    "pokeMartOf": "",
+    "soldOut": ""
+  },
+  "shortcuts": {
+    "farm": "",
+    "title": "",
+    "underground": ""
+  },
+  "startSequence": {
+    "challengeModes": "",
+    "intro": "",
+    "professorOak": ""
+  },
+  "starter": {
+    "ambushed": "",
+    "cantHoldOffFour": "",
+    "cantHoldOffThree": "",
+    "captureStarter": "",
+    "caughtIntro": "",
+    "clickToDamage": "",
+    "pickNextRegion": ""
+  },
+  "statistics": {
+    "achievementBonus": "",
+    "baseClickAttack": "",
+    "clickAttackTab": "",
+    "genderTooltip": "",
+    "modifiers": "",
+    "multipliersTab": "",
+    "noActiveMultipliers": "",
+    "notAvailable": "",
+    "purifiedPokemon": "",
+    "resistantPokemon": "",
+    "shinyPokemon": "",
+    "startDateTime": "",
+    "statistic": "",
+    "statsTab": "",
+    "timePlayed": "",
+    "title": "",
+    "uniquePokemon": ""
+  },
+  "town": {
+    "clears": "",
+    "dock": "",
+    "dungeonAllCaught": "",
+    "dungeonAllCaughtShiny": "",
+    "dungeonDebuffed": "",
+    "dungeonLootTooltip": "",
+    "dungeonShadowAllCaught": "",
+    "dungeonShadowMissing": "",
+    "dungeonTokensHelp": "",
+    "enterBattleFrontier": "",
+    "hireDungeonGuide": "",
+    "mapLegend": "",
+    "mapLegendIntro": "",
+    "mapLegendNote": "",
+    "mapTitle": "",
+    "moonClickInfo": "",
+    "openCastformApp": "",
+    "openDreamOrbs": "",
+    "pickStarter": "",
+    "purifyChamber": "",
+    "startDungeon": "",
+    "totalClears": "",
+    "travelTo": ""
+  },
+  "trader": {
+    "currency": "",
+    "inv": "",
+    "item": "",
+    "profit": "",
+    "soldOut": "",
+    "totalQuestPoints": "",
+    "trade": "",
+    "trades": ""
+  },
+  "travel": {
+    "regionalTravel": "",
+    "subregionalTravel": "",
+    "subregionalTravelTo": "",
+    "unexploredRegion": ""
+  },
+  "underground": {
+    "dig": {
+      "allTreasuresCollected": "",
+      "autoRestartTooltip": "",
+      "buried": "",
+      "clickToDischarge": "",
+      "collected": "",
+      "durabilityPerUse": "",
+      "findMine": "",
+      "free": "",
+      "info": "",
+      "level": "",
+      "lifetimeUsage": "",
+      "nextUse": "",
+      "off": "",
+      "on": "",
+      "searchingForMine": "",
+      "seen": "",
+      "timeUntilFull": "",
+      "toolFree": ""
+    },
+    "display": {
+      "battery": "",
+      "expert": "",
+      "fire": "",
+      "noExperts": "",
+      "title": "",
+      "view": ""
+    },
+    "experts": {
+      "discoverChance": "",
+      "expertise": "",
+      "fire": "",
+      "hire": "",
+      "information": "",
+      "level": "",
+      "levelValue": "",
+      "rewardRetention": "",
+      "smartToolUse": "",
+      "useExpertise": "",
+      "workCycle": ""
+    },
+    "findMine": {
+      "clears": "",
+      "discoveryTime": "",
+      "potentialTreasures": "",
+      "searchForMine": "",
+      "selectMine": ""
+    },
+    "help": {
+      "amount": {
+        "intro": "",
+        "level": "",
+        "maximum": "",
+        "minimum": "",
+        "title": ""
+      },
+      "battery": {
+        "chance": "",
+        "charges": "",
+        "discharge": "",
+        "discharges": "",
+        "intro": "",
+        "requirements": "",
+        "tier": "",
+        "title": ""
+      },
+      "discovery": {
+        "intro": "",
+        "notRandom": "",
+        "other": "",
+        "otherTitle": "",
+        "random": "",
+        "title": ""
+      },
+      "experience": {
+        "clearLayer": "",
+        "digUpItem": "",
+        "experienceTitle": "",
+        "intro": "",
+        "levelDiscovery": "",
+        "levelDurability": "",
+        "levelIntro": "",
+        "levelSurvey": "",
+        "levelTitle": "",
+        "levelTreasures": "",
+        "sharedExpert": "",
+        "sharedPlayer": "",
+        "sharedTitle": "",
+        "title": "",
+        "treasures": ""
+      },
+      "experts": {
+        "actionBomb": "",
+        "actionChisel": "",
+        "actionHammer": "",
+        "actions": "",
+        "energyRestore": "",
+        "expertise": "",
+        "expertiseBase": "",
+        "expertiseFallback": "",
+        "expertiseIncrease": "",
+        "intro": "",
+        "largeRestore": "",
+        "mechanicsTitle": "",
+        "mediumRestore": "",
+        "neverSpecial": "",
+        "rewardRetention": "",
+        "rewardRetentionChance": "",
+        "smallRestore": "",
+        "smartToolUse": "",
+        "smartToolUseIncrease": "",
+        "title": "",
+        "workCycle": ""
+      },
+      "glossary": {
+        "collected": "",
+        "completed": "",
+        "seen": "",
+        "successfulToolUse": "",
+        "title": ""
+      },
+      "mines": {
+        "finding": "",
+        "findingExpert": "",
+        "findingNote": "",
+        "findingPlayer": "",
+        "findingTitle": "",
+        "intro": "",
+        "special": "",
+        "title": "",
+        "typeDiamond": "",
+        "typeEvolutionItem": "",
+        "typeFossil": "",
+        "typeGemPlate": "",
+        "typeRandom": "",
+        "typeShard": "",
+        "typeSpecial": "",
+        "typesTitle": ""
+      },
+      "oakItems": {
+        "cellBatteryEffect": "",
+        "cellBatteryProgress": "",
+        "explosiveChargeEffect": "",
+        "explosiveChargeProgress": "",
+        "title": "",
+        "treasureScannerEffect": "",
+        "treasureScannerProgress": ""
+      },
+      "tools": {
+        "durability": "",
+        "durabilityTitle": "",
+        "intro": "",
+        "overview": "",
+        "overviewTitle": "",
+        "restoreRate": "",
+        "title": "",
+        "tool": ""
+      },
+      "trading": {
+        "exception": "",
+        "intro": "",
+        "ratio": "",
+        "sameCategory": "",
+        "title": ""
+      }
+    },
+    "tabs": {
+      "dig": "",
+      "experts": "",
+      "treasures": ""
+    },
+    "treasureDetail": {
+      "diamondsValue": "",
+      "gemsValue": "",
+      "mined": "",
+      "mining": "",
+      "owned": "",
+      "ownedAmount": "",
+      "setTradeAmount": "",
+      "statistics": "",
+      "trade": ""
+    },
+    "treasures": {
+      "all": "",
+      "canBeSold": "",
+      "cannotBeSold": "",
+      "clickForDetails": "",
+      "disableQuickSell": "",
+      "enableQuickSell": "",
+      "filtersAndSettings": "",
+      "grid": "",
+      "quickSellEnabled": "",
+      "quickSellHint": "",
+      "quickSellTooltip": "",
+      "sortAscending": "",
+      "sortDescending": ""
+    }
+  },
+  "vitamins": {
+    "attackBonus": "",
+    "breedingEfficiency": "",
+    "disabled": "",
+    "eggSteps": "",
+    "hideMaxed": "",
+    "hideShiny": "",
+    "order": "",
+    "removeAll": "",
+    "removeAllOf": "",
+    "searchPlaceholder": "",
+    "title": "",
+    "vitaminsUsed": ""
+  },
+  "weather": {
+    "castformApp": "",
+    "fri": "",
+    "mon": "",
+    "sat": "",
+    "sun": "",
+    "thu": "",
+    "time": "",
+    "tue": "",
+    "wed": ""
+  }
+}
