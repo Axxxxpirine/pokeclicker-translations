@@ -28,3 +28,4 @@ If you are translating a new section of the game that warrants hashed keys, also
 For all export helper functions, open the browser console in a development build of the game and execute the function there.
 
 - `questlines.json`: call `TranslationHelper.exportQuestlineTranslationDefaults()`
+- `npcs.json`: call `TranslationHelper.exportNPCTranslationDefaults()`
