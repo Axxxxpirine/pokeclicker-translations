@@ -388,7 +388,7 @@
       "name.0178260179": "Sacha",
       "dialog.0572184272": "[[pokemon::Mewtwo]] a créé une armée de Clones. Aide-moi à les combattre, s'il te plaît, je dois sauver [[pokemon::Pikachu]] !",
       "dialog.1177230998": "Il reste encore des Clones dans l'armée de Mewtwo ! Aide-moi à les combattre !",
-      "dialog.1025898504": "Hé ! Je ne m'attendais pas à te revoir ici. Ça te dirait un comb… En fait, non, j'aimerais te demander un service : un ami à moi qui vit à Glimwood Tangle m'a appelé pour me demander de l'aide.",
+      "dialog.1025898504": "Hé ! Je ne m'attendais pas à te revoir ici. Ça te dirait un comb… En fait, non, j'aimerais te demander un service : un ami à moi qui vit dans la Forêt de Lumirinth m'a appelé pour me demander de l'aide.",
       "dialog.1210554320": "J'irais bien moi-même, mais j'ai promis un combat à un des élèves d'ici et je ne veux pas lui faire faux bond. Tu pourrais y aller à ma place ?",
       "dialog.0915900434": "Génial ! Mon ami s'appelle Koko, dis-lui que c'est moi qui t'envoie. Ce combat ne devrait pas me prendre trop longtemps, alors viens me demander de l'aide si tu en as besoin !",
       "dialog.0751005494": "Te revoilà ! Comment ça s'est passé avec les [[pokemon::Zarude]] ?",
@@ -492,7 +492,7 @@
       "dialog.1003191352": "Certains bébés Pokémon, seulement de la Pension ils viennent ! Éclore ! Éclore ! Éclore !"
     },
     "Kimono Girl Zuki": {
-      "name.0256145186": "Kimono Girl Zuki",
+      "name.0256145186": "Kimono Zuki",
       "dialog.1294366297": "Le Professeur Orme m'a dit que tu étais un Dresseur hors pair. Je t'en prie, montre-moi ton talent en entraînant tes Pokémon."
     },
     "Elder Li": {
@@ -528,7 +528,7 @@
       "dialog.0023859941": "Nous construisons une ligne de Train Magnétique pour transporter les voyageurs <b>vers l'est, jusqu'à Kanto</b>. Une fois qu'elle sera terminée, on pourra rejoindre Safrania en un temps record !"
     },
     "Kimono Girl Kuni": {
-      "name.0256591958": "Kimono Girl Kuni",
+      "name.0256591958": "Kimono Kuni",
       "dialog.1518385682": "Je dois retrouver mes sœurs, mais les rues d'ici ne sont pas sûres du tout ! Tu peux me protéger de la Team Rocket ?"
     },
     "Search For Clues": {
@@ -558,11 +558,11 @@
       "dialog.0664724626": "Eusine était là il y a une seconde. Il avait l'air très excité, puis il est soudainement parti. Je ne sais pas où il est allé, mais il semblait particulièrement intéressé par celle qui est bleue."
     },
     "Kimono Girl Miki": {
-      "name.0256544001": "Kimono Girl Miki",
+      "name.0256544001": "Kimono Miki",
       "dialog.2014898097": "Mes sœurs Zuki et Naoko m'ont dit que tu les avais aidées, et je t'en remercie. Je t'en prie, aide-moi à retrouver mes deux autres sœurs, Sayo et Kuni. Accepte ceci en gage de ma gratitude."
     },
     "Kimono Girls": {
-      "name.1830032824": "Kimono Girls",
+      "name.1830032824": "Sœurs Kimono",
       "dialog.0639560728": "Nous t'observons depuis un moment et voyons que tu as dompté les trois Pokémon ressuscités par [[pokemon::Ho-Oh]] dans la Tour Cendrée. Montre-nous ta puissance et nous te remettrons la Clear Bell, qui appellera [[pokemon::Ho-Oh]] à la Tour Carillon.",
       "dialog.0826863605": "Par le pouvoir de la Tidal Bell, nous t'appelons, [[pokemon::Lugia]] ! Gardien des Tourb'Îles !"
     },
@@ -605,7 +605,7 @@
       "dialog.0922821606": "Je cherche un [[pokemon::Pichu]] étrange, tu l'as vu ? D'après les rumeurs, ses cachettes préférées sont les coffres…"
     },
     "Kimono Girl Naoko": {
-      "name.0637759771": "Kimono Girl Naoko",
+      "name.0637759771": "Kimono Naoko",
       "dialog.0409481269": "Je crois que je me suis perdue dans la forêt. Peux-tu me montrer la sortie ?"
     },
     "Jasmine": {
@@ -626,7 +626,7 @@
       "dialog.0904335109": "Palu ! Palulu !"
     },
     "Kimono Girl Sayo": {
-      "name.0256372503": "Kimono Girl Sayo",
+      "name.0256372503": "Kimono Sayo",
       "dialog.0098610481": "Excuse-moi ! Je suis coincée ici sur la glace, tu pourrais me donner une petite poussée ?"
     },
     "Investigate the Time Distortion": {
@@ -818,7 +818,7 @@
       "dialog.0511754444": "Ainsi, dans le monde antique, leurs formes primales détenaient une telle puissance… ? Les Pokémon super-antiques… Quelle force terrible… Mais cette apparence-là… Elle semble différente de la Méga-Évolution, et pourtant liée d'une certaine façon.",
       "dialog.1896342174": "Si je peux me permettre… Ressens-tu quelque chose de particulier en contemplant cette paroi ? Un monde primitif, perdu il y a des milliers d'années… Un Pokémon légendaire d'une puissance phénoménale devenu la plus grande menace pour l'humanité…",
       "dialog.0215305584": "La terreur suscitée par cette puissance saute aux yeux dans cette œuvre antique. Tu sais qui pourrait en savoir plus ? Le Capitaine Marcel, un marin qui travaille pour mon père.",
-      "dialog.1814558962": "Il est généralement en mer, mais tu peux le trouver à Sea Mauville quand le temps est trop orageux pour naviguer."
+      "dialog.1814558962": "Il est généralement en mer, mais tu peux le trouver à Lavandia Sea quand le temps est trop orageux pour naviguer."
     },
     "Astronomer": {
       "name.0094269370": "Astronome",
@@ -920,8 +920,8 @@
       "dialog.1447677682": "<i>[[pokemon::Latios]] et [[pokemon::Latias]] se reposent dans la clairière. Tu peux t'approcher de l'un d'eux, mais l'autre prendra sans doute la fuite.</i>"
     },
     "Explore the Outskirt Stand": {
-      "name.1837751593": "Explorer l'Outskirt Stand",
-      "dialog.0254440301": "<i>Tu jettes un œil autour de l'Outskirt Stand et aperçois deux silhouettes louches s'éloigner vers l'horizon. Alors que tu t'avances pour mieux voir, un type te barre la route.</i>",
+      "name.1837751593": "Explorer la Station Service",
+      "dialog.0254440301": "<i>Tu jettes un œil autour de la Station Service et aperçois deux silhouettes louches s'éloigner vers l'horizon. Alors que tu t'avances pour mieux voir, un type te barre la route.</i>",
       "dialog.0314586070": "Salut, l'ami ! T'es un nouveau visage dans l'coin, pas vrai ?",
       "dialog.0187240848": "Faut qu'tu m'laisses t'souhaiter la bienvenue avec un combat, ou j'm'appelle pas Willie !"
     },
@@ -941,19 +941,19 @@
       "name.2131722819": "Examiner le sac",
       "dialog.2004633396": "<i>Tu ouvres le sac et une fille en surgit !</i>",
       "dialog.1830142272": "Merci de m'avoir libérée ! J'ai cru que c'était fini pour moi !",
-      "dialog.0572053264": "Au fait, je m'appelle Rui. Je suis une sorte de médium, en mission pour sauver des Pokémon dont l'âme a été corrompue par des gens malveillants à Orre.",
+      "dialog.0572053264": "Au fait, je m'appelle Rui. Je suis une sorte de médium, en mission pour sauver des Pokémon dont l'âme a été corrompue par des gens malveillants à Rhode.",
       "dialog.1965644011": "Il y en a quelques-uns dans cette ville qui ont besoin d'aide. Tu veux bien venir avec moi ? J'ai peur que d'autres types louches se montrent.",
       "dialog.0088463563": "Je peux te signaler quels Pokémon ont été corrompus, c'est-à-dire transformés en « Pokémon Obscurs », et tu pourras les confisquer aux malfaiteurs avec tes Poké Balls.",
       "dialog.1530133458": "Tu peux aussi régler tes Filtres de capture pour attraper les Pokémon Obscurs, maintenant."
     },
     "Mayor Es Cade": {
       "name.0025798823": "Maire Es Cade",
-      "dialog.1320124095": "Ah, vous devez être des voyageurs ! Bienvenue à Phenac City ! Je suis Es Cade, le maire. Alors, vous souhaitiez me voir ? Puis-je vous être utile en quoi que ce soit ?",
+      "dialog.1320124095": "Ah, vous devez être des voyageurs ! Bienvenue à Phénacit ! Je suis Es Cade, le maire. Alors, vous souhaitiez me voir ? Puis-je vous être utile en quoi que ce soit ?",
       "dialog.0018983417": "O-o-o-oh, mon Dieu ! Des Pokémon Obscurs ? Et ils attaquent les gens ?! Si c'était vrai, ce serait vraiment effrayant. Cependant, c'est un peu difficile à croire.",
       "dialog.1552282183": "Je comprends toutefois votre inquiétude. Je vais ordonner une enquête sur-le-champ.",
       "dialog.1754247168": "Je vous le promets, nous obtiendrons des informations utiles sur ces sinistres Pokémon. En attendant, je vous recommande chaudement de visiter notre Stade, le symbole de notre fierté municipale !",
       "dialog.1302393359": "Eh bien, eh bien. Voilà un combat qui valait le détour. Je dois être honnête avec toi. Je n'aurais jamais imaginé que tu irais aussi loin.",
-      "dialog.1149942065": "Oh, mon pauvre. Tu ne comprends toujours pas ? Quelle innocence, mon enfant. Tantôt, je suis l'affable maire de Phenac… Et tantôt, je suis le chef secret de l'organisation criminelle Cipher !",
+      "dialog.1149942065": "Oh, mon pauvre. Tu ne comprends toujours pas ? Quelle innocence, mon enfant. Tantôt, je suis l'affable maire de Phénacit… Et tantôt, je suis le chef secret de l'organisation criminelle Groupe Ombre !",
       "dialog.2106922557": "Je suis Evice, et je régnerai sur le monde !",
       "dialog.1622622276": "<i>Le maire se transforme sous tes yeux et prend un air bien plus sinistre.</i>"
     },
@@ -961,15 +961,15 @@
       "name.0000082534": "Rui",
       "dialog.1283857310": "Il se passe quelque chose de louche ici, mais je ne sais pas trop quelle doit être notre prochaine étape.",
       "dialog.0770399074": "Le Stade n'est même pas encore ouvert. Je crois que le maire voulait juste se débarrasser de nous.",
-      "dialog.0174392111": "Voyons si on peut en apprendre davantage à Pyrite Town.",
-      "dialog.0632785007": "Tu as bien fait de libérer ce [[pokemon::Plusle]] de ces brutes. Je crois qu'ils faisaient tous partie de l'organisation maléfique dont j'entends parler : la Team Cipher !",
-      "dialog.1440046850": "Mon grand-père en sait peut-être plus sur eux, c'est un homme futé. Allons le voir à Agate Village !",
+      "dialog.0174392111": "Voyons si on peut en apprendre davantage à Pyrite.",
+      "dialog.0632785007": "Tu as bien fait de libérer ce [[pokemon::Plusle]] de ces brutes. Je crois qu'ils faisaient tous partie de l'organisation maléfique dont j'entends parler : le Groupe Ombre !",
+      "dialog.1440046850": "Mon grand-père en sait peut-être plus sur eux, c'est un homme futé. Allons le voir à Samaragd !",
       "dialog.2093391040": "Tu as vu cette émission complètement folle à la télé ?",
       "dialog.1133269932": "<i>Rui te montre une émission télévisée diffusée depuis une pièce sombre en sous-sol, dans laquelle une femme magnifique encourage ses sbires à voler des Pokémon.</i>"
     },
     "Mayor Trest": {
       "name.1099896304": "Maire Trest",
-      "dialog.0730980363": "Merci, $playername$, d'avoir une fois de plus sauvé notre ville de la Team Cipher.",
+      "dialog.0730980363": "Merci, $playername$, d'avoir une fois de plus sauvé notre ville du Groupe Ombre.",
       "dialog.1817515278": "Je n'ai pas vu le Professeur Krane par ici, mais j'espère que ceci te sera utile."
     },
     "Fateen's Fortune Telling": {
@@ -986,10 +986,10 @@
       "name.2070728590": "Joggeur",
       "dialog.1584919241": "Cette ville est plutôt calme. La plupart des habitants sont des Dresseurs à la retraite.",
       "dialog.0662004139": "Mais on est toujours ravis d'aider les jeunes qui passent par ici !",
-      "dialog.0152896721": "Notre seule vraie attraction touristique, c'est la Pierre Relique au nord de la ville. Rien que passer devant suffit à t'apaiser."
+      "dialog.0152896721": "Notre seule vraie attraction touristique, c'est la Relique Sacrée au nord de la ville. Rien que passer devant suffit à t'apaiser."
     },
     "Relic Stone Sage": {
-      "name.1049067956": "Sage de la Pierre Relique",
+      "name.1049067956": "Sage de la Relique Sacrée",
       "dialog.0446955504": "Cette pierre a le pouvoir de laver et de purifier l'esprit des Pokémon.",
       "dialog.1660787194": "Si tu t'entraînes avec tes Pokémon, tu accumuleras de l'énergie spirituelle, appelée « Flux ». Tu peux utiliser ce Flux pour purifier tes Pokémon.",
       "dialog.2009301671": "La purification demande davantage de Flux à chaque Pokémon que tu purifies.",
@@ -1002,7 +1002,7 @@
       "dialog.1358031241": "Oui, j'ai appris que le Professeur Krane avait été enlevé au Labo du QG Pokémon. Il y a des individus louches sur le Mont Battle qui en savent peut-être plus.",
       "dialog.2092825022": "Rui ! Et tu es… ? $playername$ ? Enchanté !",
       "dialog.1389218149": "Merci à vous deux de m'avoir sauvé de ces brutes. Elles troublaient la paix et la tranquillité de toute la région.",
-      "dialog.0377556470": "$playername$, si jamais tu as des Pokémon tourmentés, voire carrément maléfiques, emmène-les à la Pierre Relique toute proche. Son pouvoir, allié à la force de l'amitié qui te lie à tes Pokémon, pourra peut-être purifier leur âme."
+      "dialog.0377556470": "$playername$, si jamais tu as des Pokémon tourmentés, voire carrément maléfiques, emmène-les à la Relique Sacrée toute proche. Son pouvoir, allié à la force de l'amitié qui te lie à tes Pokémon, pourra peut-être purifier leur âme."
     },
     "Sailor": {
       "name.1825930828": "Marin",
@@ -1019,7 +1019,7 @@
     "Professor Krane": {
       "name.0251462112": "Professeur Krane",
       "dialog.0578611158": "$playername$ ! Merci de m'avoir libéré de ces scélérats !",
-      "dialog.1596046409": "Pendant ma captivité, j'ai appris que le nouveau Grand Maître de la Team Cipher s'est servi d'un puissant Pokémon Obscur pour enlever tous les Dresseurs et Pokémon du S. S. Libra, et qu'il les a emmenés sur l'île Citadark !",
+      "dialog.1596046409": "Pendant ma captivité, j'ai appris que le nouveau Grand Maître du Groupe Ombre s'est servi d'un puissant Pokémon Obscur pour enlever tous les Dresseurs et Pokémon du S. S. Libra, et qu'il les a emmenés sur l'Île Ténébra !",
       "dialog.2128512002": "Capturer ce puissant Pokémon Obscur ne sera pas facile, prends cette Master Ball !"
     },
     "Dr. Kaminko": {
@@ -1029,9 +1029,9 @@
     "Chobin": {
       "name.2017603645": "Chobin",
       "dialog.0780634886": "Chobin a tout appris sur les Pokémon Obscurs grâce au Dr Kaminko !",
-      "dialog.1120057107": "Il y a une pierre près du village d'Agate qui peut purifier l'âme des Pokémon, oui, oui, parfaitement.",
+      "dialog.1120057107": "Il y a une pierre près de Samaragd qui peut purifier l'âme des Pokémon, oui, oui, parfaitement.",
       "dialog.0755675201": "Le Dr Kaminko et Chobin ont inventé cette machine absolument merveilleuse ! Le Robo [[pokemon::Groudon]] !",
-      "dialog.0559565554": "Avec ce robot, nous pouvons explorer les déserts d'Orre ! Chobin et $playername$ vont sûrement trouver quelque chose d'intéressant !"
+      "dialog.0559565554": "Avec ce robot, nous pouvons explorer les déserts de Rhode ! Chobin et $playername$ vont sûrement trouver quelque chose d'intéressant !"
     },
     "Search the S. S. Libra": {
       "name.1824757267": "Fouiller le S. S. Libra",
@@ -1040,7 +1040,7 @@
     },
     "Colosseum Spectator": {
       "name.1483568349": "Spectateur du Colisée",
-      "dialog.1858189340": "Seuls les Dresseurs les plus coriaces d'Orre ont le droit de se battre ici ! Moi, je me contente de regarder en attendant de devenir plus fort."
+      "dialog.1858189340": "Seuls les Dresseurs les plus coriaces de Rhode ont le droit de se battre ici ! Moi, je me contente de regarder en attendant de devenir plus fort."
     },
     "Moss Rock": {
       "name.0751544643": "Rocher Moussu",
@@ -1175,13 +1175,13 @@
       "dialog.1706797769": "Aïe ! Tu es trop fort !",
       "dialog.0632042546": "Je connais le [[pokemon::Plusle]] que tu cherches, il a été enlevé par la célèbre machine à danser, Miror B.",
       "dialog.1348172194": "Crois-moi, tu n'as pas intérêt à te frotter à lui ! Oh ? Tu y tiens ?",
-      "dialog.0967350316": "Bon, sa planque se trouve dans la grotte de Pyrite. Mais tu ne devrais pas y aller."
+      "dialog.0967350316": "Bon, sa planque se trouve dans les Cavernes de Pyrite. Mais tu ne devrais pas y aller."
     },
     "Cipher Commander Exol": {
-      "name.1425056397": "Commandant Cipher Exol",
+      "name.1425056397": "Commandant Ombre Exol",
       "dialog.0251928916": "Ta victoire n'a aucune importance, on a eu ce qu'on était venus chercher !",
       "dialog.1529707459": "<i>Exol crie à ses sbires rassemblés :</i>",
-      "dialog.1266870663": "Troupes, en avant ! Direction Phenac !"
+      "dialog.1266870663": "Troupes, en avant ! Direction Phénacit !"
     },
     "Free Duking's Plusle": {
       "name.0537783755": "Libérer le [[pokemon::Plusle]] de Duking",
@@ -1195,7 +1195,7 @@
       "dialog.0322180480": "<i>Une explosion secoue la pièce et révèle un tunnel derrière une entrée secrète. Les scripts et les lettres sont éparpillés dans tout le studio, impossible de s'y retrouver.</i>"
     },
     "Cipher Admin Lovrina": {
-      "name.1329279671": "Admin Cipher Lovrina",
+      "name.1329279671": "Admin Ombre Lovrina",
       "dialog.1881960515": "Ooh, ça m'énerve trop de dire ça ! Je ne peux pas te battre pour l'instant. Maître Greevil va être trop fâché contre moi, mais… mais c'est pas grave.",
       "dialog.0173748405": "Pour cette fois, je te laisse me devoir une faveur. Mais tu dois me promettre de penser à mon plan la prochaine fois. Si tu vois [[pokemon::XD001]], tu voudras trop m'aider. Je t'attendrai, genre, trop !",
       "dialog.1660985330": "Et pas la peine de chercher le Professeur Krane ici, il est genre parti depuis longtemps."
@@ -1203,11 +1203,11 @@
     "Watch Evice Escape": {
       "name.0941630264": "Regarder Evice s'enfuir",
       "dialog.0362357177": "<i>Avant que l'hélicoptère ne puisse se poser, une boule de feu traverse le ciel et le fait exploser !</i>",
-      "dialog.1371806651": "<i>Un Ho-Oh passe en rase-mottes et pousse un cri pour te remercier d'avoir arrêté la maléfique Team Cipher.</i>",
+      "dialog.1371806651": "<i>Un Ho-Oh passe en rase-mottes et pousse un cri pour te remercier d'avoir arrêté le maléfique Groupe Ombre.</i>",
       "dialog.1155675493": "</br><img src=\"assets/images/pokemon/250.png\"/>"
     },
     "Cipher Admin Snattle": {
-      "name.1096082151": "Admin Cipher Snattle",
+      "name.1096082151": "Admin Ombre Snattle",
       "dialog.1301090319": "Comment est-ce possible ?! Je n'ai jamais vu un Dresseur aussi fort ! Mais peu importe ! J'ai sûrement fait gagner assez de temps à Gorigan.",
       "dialog.1472296278": "Sa précieuse opération de récupération doit être terminée, à l'heure qu'il est. Aujourd'hui, nous partirons sans faire de bruit. Mais ne nous oublie pas !"
     },
@@ -1518,7 +1518,7 @@
       "name.1864254369": "Explorateur",
       "dialog.0009594199": "Ouf ! Le désert, c'est rude. Content que tu sois arrivé jusqu'à Méanville.",
       "dialog.1294807339": "Il m'arrive de trouver des trucs bizarres dans le sable, parfois même des Pokémon cachés dans des coffres. Une fois, au Château Enfoui, j'ai trouvé un Pokémon qui ressemblait à une statue, un Pokémon que je n'avais jamais vu !",
-      "dialog.0028758801": "Ouf ! Ça fait une sacrée trotte depuis Freezington.",
+      "dialog.0028758801": "Ouf ! Ça fait une sacrée trotte depuis le Hameau Gelé.",
       "dialog.0948329425": "Il paraît qu'un Pokémon rare se cache parfois dans les coffres d'ici. On m'a dit qu'il était incroyablement rare, mais qu'on ne pouvait le trouver nulle part ailleurs !"
     },
     "Zinzolin": {
@@ -1530,7 +1530,7 @@
     },
     "Cobalion": {
       "name.0863570841": "[[pokemon::Cobalion]]",
-      "dialog.2003360295": "Salut, $playername$. Ce n'est pas ta faute si [[pokemon::Kyurem]] s'est enfui, mais je pense qu'il s'est sans doute caché. Nous devrions fouiller sans attendre la Grotte Cœur pour trouver son repaire.",
+      "dialog.2003360295": "Salut, $playername$. Ce n'est pas ta faute si [[pokemon::Kyurem]] s'est enfui, mais je pense qu'il s'est sans doute caché. Nous devrions fouiller sans attendre la Grotte Abysse pour trouver son repaire.",
       "dialog.0246676400": "Salutations. Puis-je te demander qui tu es ? Oh, tu es un ami du vieil homme ? Formidable. Et je suppose que c'est lui qui t'a envoyé me trouver.",
       "dialog.1542970676": "Eh bien, s'il t'a dit de me trouver, il doit y avoir une raison. Serais-tu là pour m'aider à réunir à nouveau les Épées de la Justice ? Si c'est le cas, merci de ton aide. Rejoins-moi au Marais Flocombe une fois que tu les auras trouvés. Commence par chercher [[pokemon::Terrakion]], quelque part dans les profondeurs de la Route Victoire d'Unys. Bonne chance, Dresseur.",
       "dialog.0612744743": "$playername$… Ne t'inquiète pas pour nous… Tout ira bien… Bats [[pokemon::Kyurem]] une bonne fois pour toutes, pour que nous puissions vivre en paix.",
@@ -1637,7 +1637,7 @@
     },
     "Green Pulsing Gemstone": {
       "name.1586172189": "Gemme verte palpitante",
-      "dialog.0062878785": "<i>Au plus profond de la Grotte Cœur, tu trouves une gemme. Elle bouge, presque comme si elle était vivante…</i>",
+      "dialog.0062878785": "<i>Au plus profond de la Grotte Abysse, tu trouves une gemme. Elle bouge, presque comme si elle était vivante…</i>",
       "dialog.0018662757": "<i>Au moment où tu décides de ramasser la pierre, tu entends un rugissement, suivi d'une explosion au loin.</i>"
     },
     "Investigate the P2 Laboratory": {
@@ -1742,7 +1742,7 @@
       "dialog.1217834346": "Il était vraiment étrange. Il n'arrêtait pas de lui dire que tout devrait rester beau pour toujours, et qu'il mettrait fin au monde en un instant pour que la beauté ne se fane jamais.",
       "dialog.0387195899": "Bref, je continue ma route. Je t'attendrai à Relifac-le-Haut.",
       "dialog.1317831212": "Oh, $playername$, tu es arrivé jusqu'ici. Je voulais en apprendre plus sur les Fossiles, alors je suis allé au labo des Fossiles, mais le scientifique en chef n'est pas là.",
-      "dialog.0064772677": "J'ai entendu dire qu'il était dans la Grotte Miroitante, mais j'ai aussi vu des types bizarres en orange y aller. Tu viens avec moi pour aller voir ?"
+      "dialog.0064772677": "J'ai entendu dire qu'il était dans la Grotte Étincelante, mais j'ai aussi vu des types bizarres en orange y aller. Tu viens avec moi pour aller voir ?"
     },
     "AZ": {
       "name.0000002105": "AZ",
@@ -1759,14 +1759,14 @@
       "name.1159575992": "Bouton bleu",
       "dialog.0325950887": "Tu l'as enfoncé ! Oh oh oh ! Tu as enfoncé l'interrupteur bleu ! Gagné, gagné ! Félicitations !",
       "dialog.0680398604": "Mais je vais quand même activer l'arme ultime ! Il me suffit de ma télécommande, tiens ! Clic-clic ! Et l'arme est EN MARCHE !",
-      "dialog.1945639606": "L'arme ultime est ressuscitée ! La fleur empoisonnée a éclos ! Tout le monde va périr ! Sauf la Team Flare ! Regarde Géosenge ! Elle a éclos à Géosenge !",
+      "dialog.1945639606": "L'arme ultime est ressuscitée ! La fleur empoisonnée a éclos ! Tout le monde va périr ! Sauf la Team Flare ! Regarde Cromlac'h ! Elle a éclos à Cromlac'h !",
       "dialog.0583215208": "Le rêve du boss de créer un monde magnifique va se réaliser ! Faites le calcul, et le résultat est… une victoire pour notre SCIENCE !"
     },
     "Red Button": {
       "name.1720322529": "Bouton rouge",
       "dialog.1803472395": "Tu l'as appuyé ! Oh oh oh ! Tu as appuyé sur le petit bouton rouge ! Dommage… pour toi !",
       "dialog.0471393808": "En appuyant sur ce bouton, tu nous as permis d'utiliser l'arme ultime ! Ne te sens pas trop mal, cela dit. Je l'aurais activée même si tu avais deviné juste.",
-      "dialog.1945639606": "L'arme ultime est ressuscitée ! La fleur empoisonnée a éclos ! Tout le monde va périr ! Sauf la Team Flare ! Regarde Géosenge ! Elle a éclos à Géosenge !",
+      "dialog.1945639606": "L'arme ultime est ressuscitée ! La fleur empoisonnée a éclos ! Tout le monde va périr ! Sauf la Team Flare ! Regarde Cromlac'h ! Elle a éclos à Cromlac'h !",
       "dialog.0583215208": "Le rêve du boss de créer un monde magnifique va se réaliser ! Faites le calcul, et le résultat est… une victoire pour notre SCIENCE !"
     },
     "Flabébé Enthusiast": {
@@ -2050,7 +2050,7 @@
     },
     "Looker": {
       "name.2013228116": "Beladonis",
-      "dialog.2095655939": "Il n'y a eu aucun nouveau signalement d'Ultra-Chimères à Alola, mais j'ai bien vu quelque chose d'étrange du côté de la Colline Clinquante. C'était noir, et pourtant brillant. Ça semblait fuir, aucun doute là-dessus. Ça devait être affaibli. Était-ce impliqué dans une sorte de combat ? Si tu le trouves, je doute qu'il lui reste beaucoup d'énergie.",
+      "dialog.2095655939": "Il n'y a eu aucun nouveau signalement d'Ultra-Chimères à Alola, mais j'ai bien vu quelque chose d'étrange du côté de la Colline Dicarat. C'était noir, et pourtant brillant. Ça semblait fuir, aucun doute là-dessus. Ça devait être affaibli. Était-ce impliqué dans une sorte de combat ? Si tu le trouves, je doute qu'il lui reste beaucoup d'énergie.",
       "dialog.0273419470": "Je te suis très reconnaissant d'avoir accepté mon invitation. Je m'appelle Beladonis. Voici ma supérieure, la Cheffe Anabel, à la tête de la Brigade UC.",
       "dialog.1758214126": "Depuis l'incident du Paradis Æther, où tu as rencontré UC-01 Parasite, aussi connu sous le nom de [[pokemon::Nihilego]], nous avons reçu des signalements d'autres Parasites apparus à Alola. Ainsi que d'autres types d'UC.",
       "dialog.0322776415": "Ils sont venus ici depuis un autre monde. Précipités brutalement dans le nôtre contre leur volonté. Nous ne savons rien d'eux. Ils pourraient être dangereux. Ils sont très certainement extrêmement méfiants et agressifs.",
@@ -2394,8 +2394,8 @@
       "dialog.1871122762": "un gars aux cheveux bleu foncé qui a l'air d'un Vétéran, à l'intérieur du Mont Lanakila,",
       "dialog.1985371399": "et une fille avec un [[pokemon::Mudsdale]] sur la colline de l'île [[pokemon::Exeggutor]].",
       "dialog.1396620813": "Pour les ROM suivantes, j'ai tendu l'oreille et j'ai entendu quelques rumeurs :",
-      "dialog.1979643103": "Des gens d'Ula-Ula ont vu Guzma se balader dans Po Town, alors je le soupçonne d'avoir trouvé une ROM de Silvallié. Va lui demander à Po Town.",
-      "dialog.0686638074": "Des habitants de l'île de Mele-Mele ont vu Kahili se promener tous les jours sur la Colline Dix-Carats. Elle a peut-être trouvé une ROM de Silvallié pendant l'une de ces balades.",
+      "dialog.1979643103": "Des gens d'Ula-Ula ont vu Guzma se balader dans Kokohio, alors je le soupçonne d'avoir trouvé une ROM de Silvallié. Va lui demander à Kokohio.",
+      "dialog.0686638074": "Des habitants de l'île de Mele-Mele ont vu Kahili se promener tous les jours sur la Colline Dicarat. Elle a peut-être trouvé une ROM de Silvallié pendant l'une de ces balades.",
       "dialog.0207503911": "Des gens de l'île de Poni ont vu Apocyne traîner avec d'anciens sbires de la Team Skull autour du Grand Canyon de Poni. C'est vraiment louche, alors ils ont sûrement trouvé quelque chose de rare… sans doute une ROM de Silvallié.",
       "dialog.0543602685": "Des gens de l'île d'Ula-Ula ont vu la Capitaine Margie dans le Supermarché Abandonné avec un [[pokemon::Mimikyu]] qui portait un objet en forme de disque. Je soupçonne que c'est une ROM de Silvallié.",
       "dialog.1515364411": "Des gens de l'île d'Akala ont vu des personnes en tenue blanche, chargées de nombreuses caisses, partir vers le sud-ouest de l'île.",
@@ -2512,12 +2512,12 @@
     },
     "Ancient Mural": {
       "name.0112380467": "Fresque ancienne",
-      "dialog.2033341621": "<i>C'est la célèbre fresque de Corrifey.</i>",
+      "dialog.2033341621": "<i>C'est la célèbre fresque d'Old Chister.</i>",
       "dialog.0410147227": "<i>On dit que c'est une œuvre d'art très profonde…</i>"
     },
     "Ancient Mural Ruins": {
       "name.1300515480": "Ruines de la fresque ancienne",
-      "dialog.0559539265": "<i>Ce sont les statues qui étaient cachées derrière la célèbre fresque de Corrifey.</i>",
+      "dialog.0559539265": "<i>Ce sont les statues qui étaient cachées derrière la célèbre fresque d'Old Chister.</i>",
       "dialog.2124055098": "<i>Elles représentent deux héros et deux Pokémon.</i>"
     },
     "Archaeologist": {
@@ -2560,7 +2560,7 @@
       "dialog.1268905270": "Tu te souviens du Pokémon qu'on a croisé dans la Forêt de Sleepwood ?",
       "dialog.0755959331": "Tu crois que… ça pourrait être l'un d'eux ? Je veux dire, le Pokémon épée ou le Pokémon bouclier ?",
       "dialog.1988898648": "Peut-être qu'une fois leur mission accomplie, ils sont tombés dans une sorte de sommeil ?",
-      "dialog.1158655059": "Cette vidéo en direct… Elle venait du Stade de Smashings, non ? Qu'est-ce que le président a bien pu faire… ?",
+      "dialog.1158655059": "Cette vidéo en direct… Elle venait du Stade de Kickenham, non ? Qu'est-ce que le président a bien pu faire… ?",
       "dialog.1588458275": "Je veux aider mon frère ! Il le faut ! Mais je n'arrive même pas à te battre, alors à quoi est-ce que je pourrais bien servir… ?",
       "dialog.0945785928": "Attends une seconde… Le président parlait de la Nuit Noire. C'est quand le ciel est devenu tout noir, il y a très, très longtemps, non ? Qu'est-ce qu'il veut dire, qu'il va la provoquer ? Et où est-ce qu'on a déjà entendu ce nom… ?",
       "dialog.1962060365": "Ah ! La statue du héros à Motorby ! Sonia avait dit quelque chose à ce moment-là, non… ? Même si ça s'est révélé faux, vu qu'il y avait en fait deux héros et tout ça.",
@@ -2628,7 +2628,7 @@
       "dialog.1206311907": "Bon, écoutez. Tous ceux qui ont réussi à rattraper un [[pokemon::Slowpoke]] au moins une fois sont reçus ! Notre nouvel élève s'est vraiment surpassé, alors c'est normal que tous les autres aient une seconde chance. Essayez de vous rattraper, tout le monde !",
       "dialog.2147005571": "Et pour votre deuxième épreuve, cueillette de champignons ! Je vous charge de trouver trois Champis Max ! Ils sont rouges avec un motif en spirale. Je suis à peu près sûr qu'ils poussent dans des endroits sombres et humides ! Et sur ce, votre prochaine épreuve commence ! Je compte sur vous !",
       "dialog.1537237004": "Hé ! Ma faute, ma faute ! Je viens de réaliser que tu viens tout juste d'arriver sur Isolarmure ! Je parie que tu n'as aucune idée d'où commencer à chercher des Champis Max ! Allez, viens… on va faire un tour, et je vais te montrer quelques coins à champignons.",
-      "dialog.1083872046": "Dum dum di di… La la di daaa… D'habitude, la Forest of Focus regorge de Champis Max. Mais voilà, une horde de [[pokemon::Greedent]] est passée par là et les a tous mangés jusqu'au dernier ! Alors je me dis que tu auras peut-être plus de chance d'en trouver si tu vas jeter un œil au Warm-Up Tunnel.",
+      "dialog.1083872046": "Dum dum di di… La la di daaa… D'habitude, la Forest of Focus regorge de Champis Max. Mais voilà, une horde de [[pokemon::Greedent]] est passée par là et les a tous mangés jusqu'au dernier ! Alors je me dis que tu auras peut-être plus de chance d'en trouver si tu vas jeter un œil à la Voie des Étirements.",
       "dialog.1826524985": "Il se trouve de l'autre côté de la forêt ! Fais juste attention où tu mets les pieds dans la forêt, d'accord ? On s'y perd facilement ! Bref… Bonne chance dans ta chasse aux Champis Max ! On se retrouve au dojo !",
       "dialog.0850705457": "Ah, te voilà ! Bon retour ! On dirait que tu as réussi l'épreuve haut la main ! Bravo d'avoir trouvé les Champis Max ! La deuxième épreuve n'a été qu'une formalité pour toi !",
       "dialog.1911131135": "Tous mes autres élèves ont fini par se perdre dans la forêt… Finalement, trouver les Champis Max était le cadet de leurs soucis ! C'est dommage, mais j'imagine que tout le monde sauf toi va échouer à l'épreuve…",
@@ -2667,7 +2667,7 @@
       "dialog.1634377782": "Qu'est-ce que c'est que ça ? Tu essaies de montrer que tu es plus fort·e que moi ? Quel manque de goût ! Ta présence me dérange au plus haut point ! Tu débarques au dojo sans prévenir et tu fais preuve d'un tel talent, alors que tu es encore si jeune… Tu oses te mettre en travers de mon chemin ? Je t'avais prévenu·e au sujet de mes pouvoirs psychiques, et maintenant tu vas y goûter en personne !"
     },
     "Freezington Mayor": {
-      "name.1462796711": "Maire de Freezington",
+      "name.1462796711": "Maire du Hameau Gelé",
       "dialog.0768773629": "Si mes yeux ne m'ont pas trompé, j'ai vu un Pokémon rare à {ROUTE_NAME}. Va voir si tu peux le trouver, si ça t'intéresse."
     },
     "Peony": {
@@ -2677,7 +2677,7 @@
       "dialog.2078603229": "Attends… T'as vraiment capturé le [[pokemon::Calyrex]] des légendes ?! C'est ultra-méga-génial ! Vas-y, fais ton rapport !",
       "dialog.1304489752": "C-cette caboche est ÉNORME ! C-c'est ça, le Roi de l'Abondance ? Celui qui fait la loi par ici ? Hein ? J'jurerais que je l'ai déjà vu quelque part… Ou peut-être pas, en fait…",
       "dialog.1199863936": "B-bref ! Avoir des destriers, c'est carrément royal… et cette tête énorme ressemble un peu à une couronne ! En tout cas, c'est assez royal pour moi ! On va dire que l'expédition est une réussite ! Du tonnerre !",
-      "dialog.0821788173": "Hé, Chef ! J'ai causé avec les gens du coin, et ils m'ont dit avoir vu des Pokémon oiseaux qui ressemblaient aux oiseaux légendaires de Kanto, près de l'arbre ultra-méga-gigantesque au milieu du Ballimere Lake !",
+      "dialog.0821788173": "Hé, Chef ! J'ai causé avec les gens du coin, et ils m'ont dit avoir vu des Pokémon oiseaux qui ressemblaient aux oiseaux légendaires de Kanto, près de l'arbre ultra-méga-gigantesque au milieu du Lac Poké Ball !",
       "dialog.1966508604": "Tu devrais aller jeter un œil !",
       "dialog.1293068308": "Tu dis que t'as vu des Pokémon qui ressemblaient à…. Attends, Chef ! Y a un flash spécial à la télé ! Ils disent que des drôles de Pokémon oiseaux débarquent de partout !",
       "dialog.0654131161": "Y en a un tout chic et gracieux qui volerait au-dessus de Couronneige !",
@@ -2691,12 +2691,12 @@
       "dialog.2098575704": "Attends… T'as vraiment capturé les [[pokemon::Articuno]], [[pokemon::Moltres]] et [[pokemon::Zapdos]] des légendes ?! C'est ultra-méga-génial ! Vas-y, fais ton rapport !",
       "dialog.0419670254": "Alors c'est eux, hein ? Je vois bien la ressemblance, mais ils ont pas l'air tout à fait pareils…",
       "dialog.1821828936": "Peut-être des formes régionales, un truc comme ça ? En tout cas, ça me suffit. On va dire que l'expédition est une réussite !",
-      "dialog.1101935162": "Hé, Chef ! J'ai causé avec les gens du coin, et ils m'ont parlé de drôles de ruines violettes et jaunes à Three-Point Pass. Tu devrais aller voir ça !",
-      "dialog.0238260817": "Alors elles veulent pas s'ouvrir… C'est rageant. Bon, il y a aussi trois autres ruines : deux aux deux bouts de Giant's Bed, et une à Snowslide Slope. Tu devrais peut-être y jeter un œil ?",
-      "dialog.1064820938": "Et si tu les explorais 10 fois chacune, pour voir si tu trouves un truc qui ouvre les ruines de Three-Point Pass ?",
+      "dialog.1101935162": "Hé, Chef ! J'ai causé avec les gens du coin, et ils m'ont parlé de drôles de ruines violettes et jaunes à la Croisée Trois-Voies. Tu devrais aller voir ça !",
+      "dialog.0238260817": "Alors elles veulent pas s'ouvrir… C'est rageant. Bon, il y a aussi trois autres ruines : deux aux deux bouts du Repos du Géant, et une sur la Pente Enneigée. Tu devrais peut-être y jeter un œil ?",
+      "dialog.1064820938": "Et si tu les explorais 10 fois chacune, pour voir si tu trouves un truc qui ouvre les ruines de la Croisée Trois-Voies ?",
       "dialog.1606443189": "Alors ça a pas marché ? Bon, j'ai entendu dire qu'il y a des Pokémon légendaires dans ces ruines : [[pokemon::Regirock]], [[pokemon::Regice]] et [[pokemon::Registeel]]. Il paraît qu'ils se montrent aux gens qui ont assez exploré leurs ruines.",
       "dialog.0081583737": "Peut-être que si tu les attrapais, les autres ruines s'ouvriraient ? Quoi ? C'est déjà fait ? Bah, ça vaut peut-être le coup de recommencer, quand même.",
-      "dialog.0319916090": "On dirait que ça a pas suffi. Mais perds pas espoir ! On vient de me dire que [[pokemon::Regigigas]] est apparu à Giant's Bed ! Sûrement parce que t'as attrapé les trois autres. Bref ! Va donc l'attraper !",
+      "dialog.0319916090": "On dirait que ça a pas suffi. Mais perds pas espoir ! On vient de me dire que [[pokemon::Regigigas]] est apparu au Repos du Géant ! Sûrement parce que t'as attrapé les trois autres. Bref ! Va donc l'attraper !",
       "dialog.0798695525": "Attends… T'as vraiment capturé le [[pokemon::Regigigas]] des légendes ? Bon, ça a pas l'air d'avoir ouvert les ruines tout seul ni rien, mais j'imagine que [[pokemon::Regigigas]] peut ouvrir ces portes à la force des bras !",
       "dialog.0343252223": "Vas-y maintenant, va voir ce qu'il y a dedans !",
       "dialog.0432325165": "T'as capturé les [[pokemon::Regieleki]] et [[pokemon::Regidrago]] des légendes ? Eh ben voilà, c'est réglé ! Du tonnerre ! Je note cette expédition comme terminée !",
@@ -2708,13 +2708,13 @@
       "dialog.1650250273": "Ah, oui. Un corps robuste, comme je m'y attendais. J'espère que cet homme ne m'en voudra pas de l'emprunter quelque temps.",
       "dialog.0781076122": "Je suis [[pokemon::Calyrex]]. On me connaît aussi sous le nom de Roi de l'Abondance. J'ai emprunté le corps de cet homme afin de te remercier en personne d'avoir restauré ma statue… pour ainsi dire.",
       "dialog.1842724713": "Jadis, je régnais en roi sur ces terres, mais il ne me reste aujourd'hui qu'une infime part de ma force d'antan. Même mes fidèles destriers m'ont abandonné.",
-      "dialog.1738742765": "Me ferais-tu la faveur de me protéger des Pokémon sauvages à Old Cemetery et à Snowslide Slope ? Je souhaite y faire pousser une Carotte Sombre et une Carotte Givrée, qui pourraient, je crois, attirer mes fidèles destriers.",
+      "dialog.1738742765": "Me ferais-tu la faveur de me protéger des Pokémon sauvages au Cimetière Ancien et sur la Pente Enneigée ? Je souhaite y faire pousser une Carotte Sombre et une Carotte Givrée, qui pourraient, je crois, attirer mes fidèles destriers.",
       "dialog.0819066789": "Merci de m'avoir aidé à faire pousser ces carottes. J'ai la conviction qu'elles ramèneront mes fidèles destriers auprès de moi…",
       "dialog.0031151843": "Quoi ?! Ils sont déjà là ! Mais ils semblent incapables de savoir d'où vient exactement l'odeur des carottes !",
       "dialog.0581718430": "Les habitants de ce lieu sont en danger, tu dois les repousser !",
       "dialog.0855515358": "Tu as ma gratitude pour avoir protégé le village, enfant humain. Malheureusement, cela a aussi fait fuir mes fidèles destriers.",
       "dialog.1196821916": "Hmm… Maintenant que nous savons qu'ils sont dans les parages, peut-être vaudrait-il mieux partir à leur recherche ?",
-      "dialog.0952949390": "Je pense que ce serait le plus sage. Une fois que tu les auras capturés, je te saurais gré de les amener au Crown Shrine, au sommet de la montagne.",
+      "dialog.0952949390": "Je pense que ce serait le plus sage. Une fois que tu les auras capturés, je te saurais gré de les amener au Temple Couronne, au sommet de la montagne.",
       "dialog.1094684071": "Enfin, mes fidèles destriers me sont revenus. Il n'existe vraiment aucun mot pour exprimer pleinement ma gratitude. Mais je puis essayer. Prends ces Rênes de l'Unité.",
       "dialog.1501031771": "<img src=\"assets/images/keyitems/Reins_of_unity.png\">",
       "dialog.0746967302": "Elles permettent de m'unir à mes destriers. Toutefois, elles sont incomplètes. Pour qu'elles fonctionnent, tu dois y entrelacer des crins de leur crinière. Je suppose qu'il leur arrivera d'en laisser derrière eux lorsqu'ils seront vaincus.",
@@ -2726,17 +2726,17 @@
       "name.1907943732": "Péonia",
       "dialog.0945445688": "Attends… Je te reconnais ! T'es le petit qui a battu mon père tout à l'heure, non ? Pas mal, c'est pas un tendre !",
       "dialog.1404313921": "D'ailleurs, un Dresseur costaud comme toi, ça pourrait t'intéresser : il y a un endroit tout près où j'allais justement me rendre.",
-      "dialog.0291570742": "C'est un réseau de grottes juste au nord d'ici, appelé le Max Lair. C'est le seul endroit connu où on peut attraper des Pokémon Gigamax sauvages !",
+      "dialog.0291570742": "C'est un réseau de grottes juste au nord d'ici, appelé le Grand Antre Dynamax. C'est le seul endroit connu où on peut attraper des Pokémon Gigamax sauvages !",
       "dialog.0473117557": "Si ça t'intéresse, va donc y faire un tour !",
       "dialog.1954609493": "Te revoilà ! Alors, je suppose que t'en as vu un ? Un [[pokemon::Gigantamax Pikachu]], hein ? Ouais, j'en ai vu un aussi ! J'en ai vu deux autres, d'ailleurs : [[pokemon::Meowth]] et [[pokemon::Eevee]]. Tu les croiseras peut-être en y retournant.",
       "dialog.1877576809": "Malheureusement, on dirait que ces trois-là sont les seuls ici pour le moment. Mais il y a un moyen d'en attirer d'autres, si ça te tente.",
       "dialog.2074286176": "T'as sûrement remarqué des formations rocheuses hexagonales pendant ton voyage, non ? On les appelle des Nids de Raid. On en trouve dans les Terres Sauvages du continent, à Isolarmure et ici, à Couronneige.",
       "dialog.1461957572": "Chaque jour, certains d'entre eux brillent en rouge et projettent un rayon violet. Il y en a toujours 10 par jour, va savoir pourquoi. Tiens, télécharge cette appli, et ils apparaîtront sur ta carte !",
       "dialog.1852499343": "Bref, dans chacun de ces Nids de Raid, il y a un Pokémon Gigamax ! Mais tu peux pas les attraper : ils reprennent leur forme normale et s'enfuient avant que t'aies le temps.",
-      "dialog.0947240488": "Par contre ! Chacun laisse tomber une pierre appelée Wishing Piece. Si tu rassembles assez de ces pierres ici, d'autres Pokémon Gigamax viendront ! Lesquels, j'en sais rien, ça dépend sûrement de ta chance.",
-      "dialog.1574456163": "En comptant les trois déjà là, il y a 33 Pokémon Gigamax. J'imagine qu'il te faudra plus de 200 Wishing Pieces pour tous les faire venir.",
+      "dialog.0947240488": "Par contre ! Chacun laisse tomber une pierre appelée Morceau Vœu. Si tu rassembles assez de ces pierres ici, d'autres Pokémon Gigamax viendront ! Lesquels, j'en sais rien, ça dépend sûrement de ta chance.",
+      "dialog.1574456163": "En comptant les trois déjà là, il y a 33 Pokémon Gigamax. J'imagine qu'il te faudra plus de 200 Morceaux Vœu pour tous les faire venir.",
       "dialog.1257064177": "Ils sont tous là ! Ça a pris un bon moment, mais ça valait vraiment le coup !",
-      "dialog.1157925334": "Hé, c'est quoi cette lueur violette ? On dirait que ça vient de… Smashings ?",
+      "dialog.1157925334": "Hé, c'est quoi cette lueur violette ? On dirait que ça vient de… Kickenham ?",
       "dialog.0831689604": "Attends, ça ressemble beaucoup à la fois où tonton Shehroz a déclenché la Nuit Noire ! C'est toi qui avais tout arrêté, non ? Tu devrais sûrement y aller !",
       "dialog.1597178868": "Alors c'était vraiment encore [[pokemon::Eternatus]] ? Vu que la lueur violette a disparu, je suppose que t'as déjà réglé le problème. Bravo !",
       "dialog.0511764575": "D'ailleurs, je viens de voir un Pokémon violet et rouge s'envoler vers les grottes. C'était peut-être [[pokemon::Eternatus]] ? Je pense que cet endroit pourrait lui permettre de reprendre sa forme Infinimax. Tu pourras peut-être l'attraper !",
@@ -2790,8 +2790,8 @@
       "dialog.0401612926": "On vient de me conter l'ignoble plan qu'avait ourdi Volo. Allons, ne pense plus à ce scélérat. Ce n'est là qu'une histoire de plus d'une passion qui brûle trop fort et finit par consumer celui qui la porte. Voilà ce qui arrive, si on la laisse faire.",
       "dialog.1590986962": "Mais parlons de toi. Avances-tu dans tes… comment appelles-tu donc tes études sur les Pokémon ? Des recherches de terrain, c'est cela ?",
       "dialog.1484335237": "Vraiment ? Eh bien, Hisui recèle encore bien des Pokémon fascinants.",
-      "dialog.1115593574": "Comme [[pokemon::Tornadus]]… Dans chaque direction où il vole, il soulève sur son passage de terribles tempêtes. Quand le blizzard s'abat sur Alabaster Icelands, [[pokemon::Tornadus]] n'est peut-être pas loin.",
-      "dialog.0094170969": "Il y a aussi [[pokemon::Thundurus]] : en volant, il lance des éclairs dans tous les sens. Quand une pluie battante fouette Cobalt Coastlands, [[pokemon::Tornadus]] n'est peut-être pas loin.",
+      "dialog.1115593574": "Comme [[pokemon::Tornadus]]… Dans chaque direction où il vole, il soulève sur son passage de terribles tempêtes. Quand le blizzard s'abat sur les Terres Immaculées, [[pokemon::Tornadus]] n'est peut-être pas loin.",
+      "dialog.0094170969": "Il y a aussi [[pokemon::Thundurus]] : en volant, il lance des éclairs dans tous les sens. Quand une pluie battante fouette la Côte Lazuli, [[pokemon::Tornadus]] n'est peut-être pas loin.",
       "dialog.0606994377": "Enfin, [[pokemon::Landorus]], le Pokémon que l'on salue comme le Gardien des Champs. Il semble qu'on puisse l'apercevoir dans la Plaine Obsidienne. Aurais-tu l'amabilité de le capturer pour moi ?",
       "dialog.1699654460": "J'ignore pourquoi ces trois-là ont choisi de se montrer. Peut-être la cause en est-elle la faille spatio-temporelle… ou simplement leurs propres caprices…",
       "dialog.0059339812": "Ah, te voilà. Tu en sais désormais long sur [[pokemon::Landorus]], [[pokemon::Tornadus]] et même [[pokemon::Thundurus]]. Bien joué.",
@@ -2800,7 +2800,7 @@
       "dialog.0109524139": "Et maintenant, il est temps de te dire le reste. Cette cohorte compte un membre de plus. Viens.",
       "dialog.1739990466": "<img src=\"assets/images/pokemon/905.png\">",
       "dialog.1346575301": "Voici [[pokemon::Enamorus]], un Pokémon que l'on salue comme la Messagère du Printemps. [[pokemon::Enamorus]] n'est guère encline aux mauvaises manières. Mais j'imagine que tu aimerais la consigner dans ton Pokédex, n'est-ce pas ?",
-      "dialog.0791459994": "Capture-la donc, si le cœur t'en dit. Elle virevolte toujours du côté de Crimson Mirelands.",
+      "dialog.0791459994": "Capture-la donc, si le cœur t'en dit. Elle virevolte toujours du côté du Marais Carmin.",
       "dialog.0883130375": "Ah ah, tu as capturé [[pokemon::Enamorus]] aussi. Et tu en sais tant sur elle.",
       "dialog.1033015154": "[[pokemon::Enamorus]] arrive à Hisui une fois l'hiver passé. D'où son surnom de Messagère du Printemps.",
       "dialog.0140618065": "Sa compagnie, quand j'ai ce plaisir, m'est d'une grande aide : elle me transporte par monts et par vaux à travers Hisui. Mais je vais te la confier pour l'instant, je suppose.",
